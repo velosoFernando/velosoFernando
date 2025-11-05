@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Hi, I'm **Fernando**
 - 🔎 I’m interested in **Test Automation**
-- 🌱 I’m currently learning **Python, Selenium, Cypress, Playwright, BrowserLibrary**
+- 🌱 I’m currently learning **C# .NET e TypeScript**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernando-veloso1995/)
 
 ### 🧰 Tech & Tools Preference
