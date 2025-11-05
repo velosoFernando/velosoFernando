@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Hi, I'm **Fernando**
 - 🔎 I’m interested in **Web, Mobile, and API Test Automation**
-- 🌱 I’m currently learning **C# .NET e TypeScript**
+- 🌱 I’m currently learning **C# .NET, Java e TypeScript**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernando-veloso1995/)
 
 ### 🧰 Tech & Tools Preference
@@ -17,4 +17,13 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![pytest](https://img.shields.io/badge/-pytest-0A5BB1?logo=pytest&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white&style=flat)
+![.NET](https://img.shields.io/badge/-.NET-5C2D91?logo=dotnet&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)
+
+
