@@ -1,7 +1,7 @@
 ## 👋 Hello Guys
 
 - 🧑‍💻 Hi, I'm **Fernando**
-- 🔎 I’m interested in **Test Automation**
+- 🔎 I’m interested in **Web, Mobile, and API Test Automation**
 - 🌱 I’m currently learning **C# .NET e TypeScript**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernando-veloso1995/)
 
