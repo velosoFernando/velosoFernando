@@ -31,6 +31,7 @@
 ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?logo=clickup&logoColor=white&style=flat)
 ![Azure](https://img.shields.io/badge/-Azure-0078D7?logo=microsoft-azure&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 </div>
 
