@@ -1,8 +1,15 @@
 ## 👋 Hello Guys
+My name if Fernando Veloso!
 
-- 🧑‍💻 Hi, I'm **Fernando Veloso**
-- 🔎 I’m interested in **Web, Mobile, and API Test Automation**
-- 🌱 I’m currently learning **C# .NET, Java e TypeScript**
+## 🧪 What I Do
+
+- 🔎 Functional, API, E2E and Mobile Testing  
+- 🤖 Test Automation with Cypress, Selenium, Playwright & Robot Framework  
+- 🧩 Test Design: BDD, TDD, POM, Good Practices  
+- 🛠️ CI/CD Integration (GitHub Actions & Azure)  
+- 📱 Mobile tests using Appium (Android & iOS)  
+- 🚀 Performance, usability, and accessibility validations  
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernando-veloso1995/)
 
 ### 🧰 Tech & Tools Preference
@@ -39,7 +46,4 @@
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
 
 </div>
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=velosoFernando&show_icons=true&theme=tokyonight&hide_border=true)
 
