@@ -1,5 +1,6 @@
 ## 👋 Hello Guys
-My name if Fernando Veloso!
+
+My name is Fernando Veloso!
 
 ## 🧪 What I Do
 
