@@ -1,7 +1,3 @@
-## 👋 Hello Guys
-
-My name is Fernando Veloso!
-
 ## 🧪 What I Do
 
 - 🔎 Functional, API, E2E and Mobile Testing  
