@@ -1,7 +1,8 @@
 ## 🧪 What I Do
 
 - 🔎 Functional, API, E2E and Mobile Testing  
-- 🤖 Test Automation with Cypress, Selenium, Playwright & Robot Framework  
+- 🤖 Test Automation with Java, Cypress, Selenium, Playwright & Robot Framework
+- 🌐 API Automation with RestAssured
 - 🧩 Test Design: BDD, TDD, POM, Good Practices  
 - 🛠️ CI/CD Integration (GitHub Actions & Azure)  
 - 📱 Mobile tests using Appium (Android & iOS)  
