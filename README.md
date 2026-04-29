@@ -13,6 +13,10 @@
 
 <div align="center">
 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![RestAssured](https://img.shields.io/badge/-RestAssured-4CAF50?logo=rest&logoColor=white&style=flat)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber&logoColor=white&style=flat)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -31,16 +35,10 @@
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white&style=flat)
 ![.NET](https://img.shields.io/badge/-.NET-5C2D91?logo=dotnet&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?logo=clickup&logoColor=white&style=flat)
-![Azure](https://img.shields.io/badge/-Azure-0078D7?logo=microsoft-azure&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)
-![Bruno](https://img.shields.io/badge/-Bruno-7B3FE4?logo=bruno&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white&style=flat)
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
 
 </div>
 
